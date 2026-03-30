@@ -1,4 +1,4 @@
-# 🎓 UniResults: Advanced University Result Management System
+# UniResults: Advanced University Result Management System
 
 <div align="center">
   A premium, secure, and modern web application for managing university student results. Built using PHP, MySQL, HTML, CSS, and JavaScript. Featuring a stunning dark-mode glassmorphism interface.
@@ -6,33 +6,38 @@
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 Here is a glimpse of the application's premium user interface:
 
-### 🔐 Secure Login Portal
+###  Secure Login Portal
 *(Student and Admin Authentication)*
-![Login Page](assets/screenshots/login.png)
+<img width="944" height="893" alt="image" src="https://github.com/user-attachments/assets/f553aa74-201a-474a-920a-1736ffaa7a66" />
 
-### 📊 Admin Dashboard
+
+###  Admin Dashboard
 *(Overview of system statistics and recent uploads)*
-![Admin Dashboard](assets/screenshots/admin-dashboard.png)
+<img width="1519" height="740" alt="image" src="https://github.com/user-attachments/assets/fdf5759a-6dcb-4b77-8083-530dc4741cb9" />
+
 
 ### 📤 Upload Results
 *(Upload structured PDFs or add manually)*
-![Upload Results](assets/screenshots/upload-results.png)
+<img width="1549" height="728" alt="image" src="https://github.com/user-attachments/assets/563a456d-8e13-412a-9eaf-e834695ace97" />
 
-### 🧑‍🎓 Student Portal
+
+###  Student Portal
 *(Personalized student dashboard with visual performance indicators)*
-![Student Portal](assets/screenshots/student-portal.png)
+<img width="1522" height="708" alt="image" src="https://github.com/user-attachments/assets/896ed2af-e002-438c-8f23-9c62f66c4a37" />
 
-### 🏆 Class Results & Rankings
+
+###  Class Results & Rankings
 *(View class rankings and download Excel reports)*
-![Class Results](assets/screenshots/class-results.png)
+<img width="1520" height="715" alt="image" src="https://github.com/user-attachments/assets/40ba6f11-7cd6-4ebd-921a-80abf263b8c9" />
+
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
 - **Dynamic Admin Panel** — Upload student results via structured PDFs, add manual entries, and manage student accounts.
 - **Automated PDF Parsing** — Automatic text extraction and data grading from parsed PDF files using `Smalot/PdfParser`.
@@ -44,7 +49,7 @@ Here is a glimpse of the application's premium user interface:
 
 ---
 
-## 🚀 Setup Instructions
+##  Setup Instructions
 
 ### Prerequisites
 - **XAMPP** or **WAMP** (PHP 7.4+ with MySQL installed)
@@ -74,7 +79,7 @@ Navigate to the setup script in your browser to generate secure password hashes 
 ```
 http://localhost/web-tech-project/setup.php (or localhost:8000/setup.php)
 ```
-> **⚠️ Security Warning:** Please delete `setup.php` immediately after running it successfully!
+> ** Security Warning:** Please delete `setup.php` immediately after running it successfully!
 
 ### Step 5: Start the App!
 Navigate to the root URL to start using the app:
@@ -84,7 +89,7 @@ http://localhost/web-tech-project/ (or localhost:8000)
 
 ---
 
-## 🔑 Default Credentials
+##  Default Credentials
 
 **Admin Access:**
 - **ID:** `ADMIN001`
@@ -96,7 +101,7 @@ http://localhost/web-tech-project/ (or localhost:8000)
 
 ---
 
-## 📁 System Architecture
+##  System Architecture
 
 ```text
 web-tech-project/
@@ -124,5 +129,5 @@ web-tech-project/
 
 ---
 
-## 📝 License
+##  License
 This project was developed for educational purposes. Feel free to modify, extend, and use it.
